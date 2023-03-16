@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "samplesize4surveys"]
+	path = samplesize4surveys
+	url = https://github.com/psirusteam/samplesize4surveys
+	shallow = true
+	registered = true
+[submodule "TeachingSampling"]
+	path = TeachingSampling
+	url = https://github.com/psirusteam/teachingsampling
+	shallow = true
+	registered = true

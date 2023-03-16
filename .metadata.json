@@ -1,0 +1,10 @@
+[
+  {
+    "package": "samplesize4surveys",
+    "oncran": true
+  },
+  {
+    "package": "TeachingSampling",
+    "oncran": true
+  }
+]
