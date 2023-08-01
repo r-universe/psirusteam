@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "samplesize4surveys"]
-	path = samplesize4surveys
-	url = https://github.com/psirusteam/samplesize4surveys
 [submodule "TeachingSampling"]
 	path = TeachingSampling
 	url = https://github.com/psirusteam/teachingsampling
+[submodule "samplesize4surveys"]
+	path = samplesize4surveys
+	url = https://github.com/psirusteam/samplesize4surveys
